@@ -1,0 +1,15 @@
+{
+  "name": "@jokeyrhyme/eslint-config-es5",
+  "version": "1.0.0",
+  "description": "an opinionated ESLint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Ron Waldon (https://github.com/jokeyrhyme)",
+  "license": "BSD-2-Clause"
+}
