@@ -25,7 +25,6 @@
     "no-alert": 2,
     "no-div-regex": 2,
     "no-else-return": 2,
-    "no-eval": 2,
     "no-invalid-this": 2,
     "no-loop-func": 2,
     "no-param-reassign": 2,
