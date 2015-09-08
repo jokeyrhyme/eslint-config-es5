@@ -14,3 +14,17 @@ an opinionated ESLint configuration
     - which extends [eslint-config-standard](https://github.com/feross/eslint-config-standard)
 
 - explicitly disables the "env" and "ecmaFeatures" settings from standard
+
+- enables all rules from [Best Practices](http://eslint.org/docs/rules/#best-practices)
+
+    - "complexity" higher than 10 is a warning
+
+    - not "no-eq-null", as "eqeqeq" covers it
+
+    - not "no-implicit-coercion", as I like the shorter notation
+
+    - "no-warning-comments" is a warning
+
+- enables other rules
+
+    - "valid-jsdoc", but don't require `@returns` for every Function
