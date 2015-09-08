@@ -28,3 +28,9 @@ an opinionated ESLint configuration
 - enables other rules
 
     - "valid-jsdoc", but don't require `@returns` for every Function
+
+    - "no-shadow"
+
+    - "no-undefined"
+
+    - "no-use-before-define"

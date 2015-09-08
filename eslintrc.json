@@ -34,6 +34,10 @@
     "no-useless-concat": 2,
     "no-void": 2,
     "no-warning-comments": 1,
-    "vars-on-top": 2
+    "vars-on-top": 2,
+
+    "no-shadow": 2,
+    "no-undefined": 2,
+    "no-use-before-define": 2
   }
 }
