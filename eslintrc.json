@@ -1,22 +1,17 @@
 {
+  "extends": ["eslint:recommended", "semistandard"],
+
   "ecmaFeatures": {
     "modules": false,
     "experimentalObjectRestSpread": false
   },
 
   "env": {
-    "browser": false,
     "es6": false,
-    "node": true
+    "node": false
   },
 
-  "globals": {
-    "document": false,
-    "navigator": false,
-    "window": false
-  },
+  "globals": {},
 
-  "rules": {
-
-  }
+  "rules": {}
 }
